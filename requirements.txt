@@ -1,0 +1,3 @@
+marko
+requests
+beautifulsoup4 
